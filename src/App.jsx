@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import Cartoon from './components/Cartoon'
+import Cartoon from './components/cartoon'
 import SectionNav from './components/SectionNav'
 import ProjectModal from './components/ProjectModal'
 import { projects } from './data/projects'
